@@ -1,0 +1,7 @@
+a = int(input("First number: "))
+b = int(input("Second number: "))
+print('Add', a + b)
+print('Subtract', a - b)
+print('Multiply', a * b)
+print('Divide', round((a / b), 2))
+print('Exponentiation', a ** b)
