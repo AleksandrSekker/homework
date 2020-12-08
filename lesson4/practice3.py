@@ -4,7 +4,4 @@ while start_num <= 100:
         print('Even', start_num)
     start_num += 1
 
-
-for even_number in range(1,101): 
-	if (even_number%2 == 0): 
-		print('Even', even_number) 
+[(print('Even', even_number))for even_number in range(1, 101) if (even_number%2 == 0) ]
