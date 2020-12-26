@@ -19,5 +19,3 @@ def check_odd_even(number):
 
 check_odd_even(15)
 check_odd_even(-6)
-# check_odd_even("gth")
-# cheсk_odd_even(0)
